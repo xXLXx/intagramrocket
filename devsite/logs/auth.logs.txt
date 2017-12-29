@@ -1,0 +1,24 @@
+IP Address: 124.106.135.48, Date: 2017-10-27 13:56:00, Access Type: By Passed Authentication
+IP Address: 124.106.135.48, Date: 2017-10-27 13:56:30, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-10-27 14:01:28, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-10-27 14:55:22, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-10-31 07:08:35, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-10-31 07:08:49, Access Type: HTTP Authentication
+IP Address: 72.194.86.4, Date: 2017-10-31 08:08:05, Access Type: HTTP Authentication
+IP Address: 72.194.86.4, Date: 2017-10-31 08:08:11, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-11-02 07:08:39, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-11-02 07:08:51, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-11-03 00:53:13, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-11-03 00:53:26, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-11-04 08:34:02, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-11-04 08:34:10, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-11-05 06:39:22, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-11-05 06:39:31, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-11-05 07:49:36, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-11-05 07:49:52, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-11-21 07:18:19, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-11-21 07:18:27, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-11-22 05:36:52, Access Type: HTTP Authentication
+IP Address: 124.106.135.48, Date: 2017-11-22 05:37:03, Access Type: HTTP Authentication
+IP Address: 130.105.205.79, Date: 2017-12-01 12:37:51, Access Type: HTTP Authentication
+IP Address: 130.105.205.79, Date: 2017-12-01 12:38:05, Access Type: HTTP Authentication

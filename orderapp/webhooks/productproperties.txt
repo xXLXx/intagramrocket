@@ -1,0 +1,81 @@
+<script src='https://codeorigin.jquery.com/jquery-1.10.2.min.js' type='text/javascript'></script>
+{{ '//code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css' | stylesheet_tag }}
+<script src='//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js' type='text/javascript' defer='defer'></script>
+{{ 'https://mugifly.github.io/jquery-simple-datetimepicker/jquery.simple-dtpicker.css' | stylesheet_tag }}
+<script src='https://mugifly.github.io/jquery-simple-datetimepicker/jquery.simple-dtpicker.js' type='text/javascript' defer='defer'></script>
+<div style='width:300px; clear:both;'>
+  <p>
+    <label for='date'>Pick a First date:</label>
+    <input id='date1' type='text' name='properties[date1]' value='{{ cart.attributes.date }}' />
+    </p>
+</div>
+<div style='width:300px; clear:both;'>
+  <p>
+    <label for='date'>Pick a Second date:</label>
+    <input id='date2' type='text' name='properties[date2]' value='{{ cart.attributes.date }}' />
+    </p>
+</div>
+<div style='width:300px; clear:both;'>
+  <p>
+    <label for='date'>Pick a Third date:</label>
+    <input id='date3' type='text' name='properties[date3]' value='{{ cart.attributes.date }}' />
+ </p>
+</div>
+<div style='width:300px; clear:both;'>
+  <p>
+    <label for='date'>Pick a Fourth date:</label>
+    <input id='date4' type='text' name='properties[date4]' value='{{ cart.attributes.date }}' />
+     </p>
+</div>
+<div style='width:300px; clear:both;'>
+  <p>
+    <label for='date'>Pick a Fivth date:</label>
+    <input id='date5' type='text' name='properties[date5]' value='{{ cart.attributes.date }}' />
+     </p>
+</div>
+<div style='width:300px; clear:both;'>
+  <p>
+    <label for='date'>Pick a Sixth date:</label>
+    <input id='date6' type='text' name='properties[date6]' value='{{ cart.attributes.date }}' />
+     </p>
+</div>
+<div style='width:300px; clear:both;'>
+  <p>
+    <label for='date'>Pick a Seventh date:</label>
+    <input id='date7' type='text' name='properties[date7]' value='{{ cart.attributes.date }}' />
+    </p>
+</div>
+<div style='width:300px; clear:both;'>
+  <p>
+    <label for='date'>Pick a Eighth date:</label>
+    <input id='date8' type='text' name='properties[date8]' value='{{ cart.attributes.date }}' />
+     </p>
+</div>
+<div style='width:300px; clear:both;'>
+  <p>
+    <label for='date'>Pick a Ninth date:</label>
+    <input id='date9' type='text' name='properties[date9]' value='{{ cart.attributes.date }}' />
+     </p>
+</div>
+<div style='width:300px; clear:both;'>
+  <p>
+    <label for='date'>Pick a Tenth date:</label>
+    <input id='date10' type='text' name='properties[date10]' value='{{ cart.attributes.date }}' />
+      </p>
+</div>
+<script>
+   $(document).ready(function() {
+jQuery(function() {
+  jQuery('#date1').appendDtpicker();
+  jQuery('#date2').appendDtpicker();
+  jQuery('#date3').appendDtpicker();
+  jQuery('#date4').appendDtpicker();
+  jQuery('#date5').appendDtpicker();
+  jQuery('#date6').appendDtpicker();
+  jQuery('#date7').appendDtpicker();
+  jQuery('#date8').appendDtpicker();
+  jQuery('#date9').appendDtpicker();
+  jQuery('#date10').appendDtpicker();
+});
+   });
+</script>

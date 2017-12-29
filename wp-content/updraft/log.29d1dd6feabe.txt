@@ -1,0 +1,4 @@
+0000.000 (2) Opened log file at time: Thu, 21 Sep 2017 00:24:12 +0000 on http://instagramrocket.com
+0000.001 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.7 WP: 4.8.1 PHP: 7.0.22 (cgi-fcgi, Linux biz177.inmotionhosting.com 2.6.32-673.26.1.lve1.4.20.el6.x86_64 #1 SMP Tue Dec 27 17:42:53 EST 2016 x86_64) MySQL: 5.6.35 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 49.1M | 50M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.103 (2) Free space on disk containing Updraft's temporary directory: 414666.2 MB
+0000.105 (2) This backup task (29d1dd6feabe) is either complete or began over 2 days ago: ending (1505953452.15, ) (existing jobdata keys: )

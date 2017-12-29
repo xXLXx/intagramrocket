@@ -1,0 +1,5 @@
+2017-12-28T05:36:11+00:00 CRITICAL Uncaught Error: Call to undefined function header_sent() in /home/instag8/public_html/devsite/wp-login.php:879
+Stack trace:
+#0 {main}
+  thrown
+
