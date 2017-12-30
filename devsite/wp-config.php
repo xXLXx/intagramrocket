@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'instag8_instagram_dev');
+define('DB_NAME', 'instag8_instagram');
 
 /** MySQL database username */
 define('DB_USER', 'instag8_instagra');
@@ -77,7 +77,7 @@ $table_prefix  = 'wp_ccts7s06y9_';
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
-define('WP_DEBUG', false);
+define('WP_DEBUG', true);
 
 /* That's all, stop editing! Happy blogging. */
 
@@ -90,3 +90,5 @@ require_once(ABSPATH . 'wp-settings.php');
 
 define('PHP_AUTH_USER', 'developer');
 define('PHP_AUTH_PW', 'YQ3890d#R1dE');
+define('WP_HOME','https://instagramrocket.com/devsite');
+define('WP_SITEURL','https://instagramrocket.com/devsite');
